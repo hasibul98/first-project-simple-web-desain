@@ -1,0 +1,147 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
+    margin: 0;
+}    
+h1{
+
+  font-size: 50px;
+    }
+    .jhankar{
+        color: orange;
+    }
+    .half-width{
+       width: 40%;
+   /*    border: 5px solid red;*/
+       float: left;
+        margin-left: 1.5cm;
+        padding-left: 2%;
+        
+        
+    }
+    .half-width img{
+        width: 50%;
+        padding-top: .5cm;
+    
+    }
+    .top-background{
+        display: inline-block;
+      /*  border: 5px solid red;*/
+      background-image: url("C:/web devlopment/project1/1st web project/top-banner.png");
+      background-repeat: no-repeat;
+      margin-bottom: 50px;
+    }
+    section{
+        height: 500px;
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(45deg, green, red);
+        background-color: rgb(241, 149, 149);
+        padding: 10px 20px;
+        border-radius: 10px;
+        color: slateblue;
+        font-weight: bolder;
+    }
+    #section2{
+
+        display: inline-block;
+       /* border: 6px solid plum;*/
+        margin-top: 10px;
+        height: 15cm;
+        background-image: url("C:/web devlopment/project1/file photo/complete-web-development-bangla-resources/developer-portfolio/dream-bg.png");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 80px;
+        
+
+    }
+    #img2{
+        width: 30%;
+        display: inline-block;
+      /*  border: 6px solid plum;*/
+        margin: 25px;
+    }
+    #two{
+       
+        width: 60%;
+    }
+    .star{
+        
+        float: left;
+        height: 8cm;
+        
+    }
+    #moon{
+        display: block;
+     margin: 25px;   
+  /*border: 5px solid maroon;*/
+     width: 40%;
+     height: 12cm;
+     padding: .5cm;
+    }
+    #pick{
+        display: block;
+        font-size: 40px;
+        color: maroon;
+        background-image: linear-gradient(pink, red );
+        
+    }
+    p{
+        color: rgb(110, 158, 202);
+    }
+
+    .epi{
+      /*  border: 5px solid rgb(110, 43, 4);*/
+        width: 100%;
+        background-image: url("C:/web devlopment/project1/file photo/complete-web-development-bangla-resources/developer-portfolio/exp-bg.png");
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+    #coo{
+        margin-bottom: 30px;
+        margin-top: 10px;
+        margin-left: 2.3cm;
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg, lightsalmon, tomato, blue);
+        border-image-slice: 1;
+    
+    }
+    .copi{
+      /*  border: 5px solid rebeccapurple; */
+        width: 30%;
+        
+        padding: 20px;
+        float: left;
+        height: 9cm;
+        background-color:rgba(122, 129, 131, 0.274);
+
+    }
+    .homi{
+        display: block;
+        font-size: 20px;
+        color: springgreen;
+        line-height: 35px;
+        
+    }
+    #po{
+        display: block;
+        margin-top: 10px;
+        margin-left: 2cm;
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg, rgb(5, 104, 5), rgb(32, 157, 214), blue);
+        border-image-slice: 1;
+    }
+    .gro{
+        box-shadow: 10px 10px 50px slategray;
+        border-radius: 12px;
+     
+    }
+    footer{
+        
+        text-align: center;
+        font-size: 25px;
+    }
+    #foot{
+       color: red;
+    }
